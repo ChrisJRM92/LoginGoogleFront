@@ -5,7 +5,7 @@ function Home() {
     <>
       <div className="card">
         <div className="card_logo">
-          <img className="logo" src="catsong.png" alt="catSong" />
+          <img className="logo" src="/catsong.png" alt="catSong" />
           <h2>BlackCat</h2>
           <h4>Innovations</h4>
           <p>Testing OAuth Google</p>
@@ -30,7 +30,7 @@ function Home() {
             <button className="btn_google">Google</button>
           </form>
           <div className="footer">
-            <p>Don't have an account?</p>
+            <p>Don&apos;t have an account?</p>
             <a href="">Sign Up</a>
           </div>
         </div>
